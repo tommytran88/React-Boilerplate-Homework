@@ -2,7 +2,7 @@
   "name": "react-boilerplate-homework",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.tsx",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "webpack",
@@ -21,7 +21,6 @@
     "@babel/preset-env": "^7.19.3",
     "@babel/preset-react": "^7.18.6",
     "@babel/preset-typescript": "^7.18.6",
-    "@types/webpack-env": "^1.18.0",
     "babel-loader": "^8.2.5",
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
